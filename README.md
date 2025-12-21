@@ -11,14 +11,14 @@ This movement system is inspired by [Gorilla Tag's Locomotion](https://github.co
 **v1.0-pre2**
 - Unity 6.3 (recommended, made and tested in. Could work with a earlier version)
 - OpenXR
-- XR, XRI & XRTK
+- XR, XRTIK and XR Starter Assets
 - URP is recommended for the Test Scene
 
 
 **v1.0-pre1**
 - Unity 6.3 (recommended, made and tested in. Could work with a earlier version)
 - OpenXR
-- XR, XRI & XRTK
+- XR, XRTIK and XR Starter Assets
 - EasyInputs
 - URP (recommended)
 
