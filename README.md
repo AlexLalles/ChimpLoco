@@ -2,7 +2,7 @@
 
 **Hand-based VR locomotion for Unity 6 (tested in 6.3.0f1).**  
 
-This movement system is inspired by [Gorilla Tag's Locomotion](https://github.com/Another-Axiom/GorillaLocomotion), but fully rewritten and independently implemented in a 'better' way.
+This movement system is inspired by [Gorilla Tag's Locomotion](https://github.com/Another-Axiom/GorillaLocomotion), but fully rewritten and independently implemented in a 'improved' way.
 
 -pre versions include bugs, their for testing/feedback purposes. please use 1.0 not 1.1-pre3 (example). 
 
